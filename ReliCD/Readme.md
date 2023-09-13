@@ -1,4 +1,4 @@
-﻿**Reliable cognitive diagnosis, intelligent education, knowledge state uncertainty**
+﻿**ReliCD: A Reliable Cognitive Diagnosis Framework with Confidence Awareness**
 
 Pytorch implementation for ReliCD
 
